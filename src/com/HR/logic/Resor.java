@@ -1,13 +1,10 @@
 package com.HR.logic;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+
+@Getter
+@AllArgsConstructor
 public class Resor {
     private String naziv;
-
-    public Resor(String n){
-        naziv=n;
-    }
-
-    public String getResor(){
-        return naziv;
-    }
 }
