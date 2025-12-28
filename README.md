@@ -29,4 +29,4 @@
 <p>If you have any questions or feedback, please contact me at <a href="mailto:beslagicadin@gmail.com">beslagicadin@gmail.com</a>.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the <a href="https://github.com/username/TipCalculator/blob/master/LICENSE">GNU General Public License v3.0</a> license.</p>
+<p>This project is licensed under the <a href="https://github.com/beslagicadin/HR_management/blob/master/LICENSE.txt">GNU General Public License v3.0</a> license.</p>
