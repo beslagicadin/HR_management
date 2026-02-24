@@ -1,6 +1,6 @@
 <h1>HR Management</h1>
 
-<p>A Java Windows application for managing employee data and documents</p>
+<p>A Java desktop application built with JavaFX for managing employee data and documents</p>
 
 <h2>Features</h2>
 <ul>
